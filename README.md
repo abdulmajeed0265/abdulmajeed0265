@@ -51,4 +51,4 @@ src="https://img.shields.io/twitter/follow/senior_majeed?logo=twitter&style=for-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/abdulmajeed0265"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/abdulmajeeYf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
