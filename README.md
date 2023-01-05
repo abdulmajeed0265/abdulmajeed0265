@@ -9,7 +9,7 @@ I am a freelance Data Analyst with a strong background in computer science and I
 * 🌍  I'm based in Kumasi - Ghana (West Africa)
 * 🖥️  See my portfolio at [Tableau Public Profile](http://public.tableau.com/app/profile/abdul.majeed5530)
 * ✉️  You can contact me at [abdulmajeed0265@gmail.com](mailto:abdulmajeed0265@gmail.com)
-* 🧠  I'm learning Tensorflow
+* 🧠  I'm learning Medical and Sport Analytics
 * 🤝  I'm open to collaborating on Data Science and Analytics Projects
 * ⚡  Love to learn about new technologies
 
