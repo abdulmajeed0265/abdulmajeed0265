@@ -7,7 +7,7 @@ Data Analyst / Data Science
 I am a freelance Data Analyst with a strong background in computer science and IT. I excels at communicating with both technical professionals and end-users to identify and translate business requirements, and has a proven track record of driving data accuracy and integrity to exceed quality standards. In my roles as a freelance data analyst and office administrative assistant, I have developed valuable process solutions and helped businesses meet their objectives. I am proficient in a variety of tools and technologies, including Microsoft Excel, Power BI, Tableau, Python, SQL, and more.
 
 * 🌍  I'm based in Kumasi - Ghana (West Africa)
-* 🖥️  See my portfolio at [Tableau Public Profile](http://public.tableau.com/app/profile/abdul.majeed5530)
+* 🖥️  See my portfolio at [abdulmajeed.github.io](https://abdulmajeed0265.github.io/abdulmajeed.github.io/)
 * ✉️  You can contact me at [abdulmajeed0265@gmail.com](mailto:abdulmajeed0265@gmail.com)
 * 🧠  I'm learning Medical and Sport Analytics
 * 🤝  I'm open to collaborating on Data Science and Analytics Projects
