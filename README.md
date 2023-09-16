@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Hak Abdul Majeed
 ==============================================================================================================================================
 
-Data Analyst / Data Science
+Clinical Data Analyst / Health Insurance Claims Officer
 ---------------------------
 
 I am a freelance Data Analyst with a strong background in computer science and IT. I excels at communicating with both technical professionals and end-users to identify and translate business requirements, and has a proven track record of driving data accuracy and integrity to exceed quality standards. In my roles as a freelance data analyst and office administrative assistant, I have developed valuable process solutions and helped businesses meet their objectives. I am proficient in a variety of tools and technologies, including Microsoft Excel, Power BI, Tableau, Python, SQL, and more.
